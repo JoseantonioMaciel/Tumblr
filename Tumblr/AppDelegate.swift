@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  Tumblr
 //
-//  Created by Tony Mendoza on 10/11/18.
 //  Copyright © 2018 jmaciel. All rights reserved.
 //
 
