@@ -8,8 +8,6 @@
 import UIKit
 
 class PhotoCell: UITableViewCell {
-    @IBOutlet weak var tumblrLabel: UILabel!
-    
     
     @IBOutlet weak var tumblrImageView: UIImageView!
     
